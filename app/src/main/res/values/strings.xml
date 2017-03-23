@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lazy</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_hint">Input your search name here...</string>
+    <string name="search_location">Search a location</string>
+    <string name="next">Next</string>
+    <string name="congratulation">Congratulations! You are done.</string>
+    <string name="find_hotels">Find Hotels</string>
+    <string name="title_activity_maps">MapActivity</string>
+    <string name="swipe_right_if_like">Swipe right if you like it</string>
+    <string name="filter">Filter</string>
+    <string name="book_this">Book this room</string>
+</resources>
