@@ -2,6 +2,7 @@ package lazy.hackthon.com.module;
 
 import java.io.IOException;
 
+import lazy.hackthon.com.module.data.Constants;
 import lazy.hackthon.com.module.data.PredictionList;
 import okhttp3.Credentials;
 import okhttp3.HttpUrl;
@@ -15,9 +16,10 @@ import retrofit2.adapter.rxjava.RxJavaCallAdapterFactory;
 import retrofit2.converter.gson.GsonConverterFactory;
 import timber.log.Timber;
 
-import static android.provider.Telephony.Carriers.PASSWORD;
 import static lazy.hackthon.com.module.data.Constants.GOOGLE_API_KEY;
 import static lazy.hackthon.com.module.data.Constants.USER_NAME;
+import static lazy.hackthon.com.module.data.Constants.PASSWORD;
+
 
 /**
  * Created by wenchihhsieh on 2017/3/11.

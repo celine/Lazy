@@ -11,4 +11,5 @@
 *.bat
 gradlew
 gradle
+gradle.properties
 
